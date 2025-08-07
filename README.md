@@ -48,3 +48,31 @@ Key benefits: Simplifies cross-provider switching, offers out-of-the-box templat
 - TypeScript
 - AI
 - LLM
+
+---
+
+#### AI SDK
+
+Stars: 850
+
+License: NA
+
+##### Prupose
+
+Vercel's AI SDK 5 is a TypeScript toolkit enabling developers to build AI applications and agents across frameworks (Next.js, React, Vue, Svelte, Node.js, etc.) with a unified API. It standardizes integration with over 20 LLM providers (OpenAI, Anthropic, Google, Azure, etc.), eliminating provider-specific code complexity. The SDK includes two core libraries:  
+- **AI SDK Core**: For text/structured data generation, tool calling, agents, and embeddings.  
+- **AI SDK UI**: Framework-agnostic hooks for chatbots and generative UIs.  
+It provides templates (e.g., chatbots, RAG knowledge bases), starter kits, and comprehensive documentation to streamline AI app development.
+
+##### Categories
+
+ - Developer Tools
+
+##### Tags
+
+- AI
+- React
+- Next.js
+- Vue
+- Svelte
+- Node.js
