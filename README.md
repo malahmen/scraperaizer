@@ -1,12 +1,15 @@
-#### Open WebUI
+#### AI SDK
 
-Stars: 243000
+Stars: 4.75
 
-License: NA
+License: MIT
 
 ##### Prupose
 
-Open WebUI is a self-hosted, offline AI interface designed to adapt to user workflows without internet dependency. It offers extensible, personal use with over 243,000 community users, plus enterprise plans available.
+Vercel's AI SDK v5 is a TypeScript toolkit that simplifies building AI applications by standardizing integration with multiple large language model (LLM) providers (e.g., OpenAI, Anthropic, Google, Groq). It provides two core libraries:  
+- **AI SDK Core**: Unified API for text/structured data generation, tool calling, and agent development.  
+- **AI SDK UI**: Framework-agnostic hooks for chat interfaces and generative UIs.  
+The SDK eliminates provider-specific code complexity, supports multi-model workflows, and includes starter templates (e.g., chatbots, RAG systems) for frameworks like Next.js, Svelte, and Vue. Documentation and example code are available at [vercel.com/ai](https://vercel.com/ai).
 
 ##### Categories
 
@@ -14,6 +17,10 @@ Open WebUI is a self-hosted, offline AI interface designed to adapt to user work
 
 ##### Tags
 
-- AI
-- self-hosted
-- offline
+- TypeScript
+- LLM
+- framework-agnostic
+
+##### License
+
+MIT
